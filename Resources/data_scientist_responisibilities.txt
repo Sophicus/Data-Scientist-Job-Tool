@@ -1,0 +1,13 @@
+﻿Data cleansing and processing, predictive modeling, machine learning, identifying questions, running queries, applying statistical analysis, correlating disparate data, storytelling and visualization Evaluating statistical models to determine the validity of analyses.
+Using machine learning to build better predictive algorithms.
+Testing and continuously improving the accuracy of machine learning models.
+Building data visualizations to summarize the conclusion of an advanced analysis.
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Strong problem solving skills with an emphasis on product development.

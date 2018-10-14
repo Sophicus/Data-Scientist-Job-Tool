@@ -1,0 +1,19 @@
+R, Python, SAS, MatLab, SQL, NOSQL, Pig, Hadoop, Java, C/C++, Ruby Perl,Hadoop, MapReduce, Hive, Pig, Data streaming, NoSQL, SQL, programming,DashDB, MySQL, MongoDB, Cassandra,Hadoop-based technologies like MapReduce, Hive, and Pig
+SQL based technologies like PostgreSQL and MySQL
+NoSQL technologies like Cassandra and MongoDB
+Data warehousing solutions
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.
+Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc.
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+Hadoop
+Spark
+Python
+Scala
+Java
+C++
+SQL
+AWS/Redshift
+Azure

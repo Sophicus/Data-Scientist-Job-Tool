@@ -1,0 +1,15 @@
+﻿Data collection and processing, programming, machine learning, data munging, data visualization, applying statistical analysis Cleaning and organizing raw data.
+Using descriptive statistics to get a big-picture view of their data.
+Analyzing interesting trends found in the data.
+Creating visualizations and dashboards to help the company interpret and make decisions with the data.
+Presenting the results of a technical analysis to business clients or internal teams.
+Use data to create models that depict trends in the customer base.
+Supports business users answering complex business questions via ad-hoc SQL queries.
+Creatively explore new analytical solutions to make a positive impact on Opentable.
+Provide support for adhoc requests from the Business Users
+Provide support for Analytics Processes monitoring and troubleshooting.
+Importing data from various external data sources
+Data cleansing and standardization i.e. duplicates, garbage sanitization
+Data manipulation to uncover trends and insights i.e. subsetting, pivoting, summarisation, sorting 
+Creating data visualisations to effectively convey findings.
+Exporting data to external sources through reports or spreadsheets
